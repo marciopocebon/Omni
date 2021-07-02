@@ -1,3 +1,5 @@
+#Used to test Bluetooth streaming of EMG sensor module.
+
 from adafruit_ble import BLERadio
 from adafruit_ble.advertising.standard import ProvideServicesAdvertisement
 from adafruit_ble.services.nordic import UARTService
